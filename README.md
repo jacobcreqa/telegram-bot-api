@@ -49,5 +49,8 @@ You should see the informatin with json format
 8. Setup the sytem enviroment variables for `GROUP_CHAT_ID` and `TELEBOT_BOT_TOKEN`
 9. Execute the `showTokenAndGroupId.py`
 10. Swith to the group on the telegram and type:
---  `\token`: You should see the token value
--- `group_id`: You should see the group Id value
+
+```
+ \token: You should see the token value
+ \group_id: You should see the group Id value
+```
